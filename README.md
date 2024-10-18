@@ -4,6 +4,8 @@
 
 Welcome to the LapEra Laptop Website repository! This repository contains the source code for the LapEra website, a platform dedicated to helping users find the perfect laptop for their needs. Explore a curated selection of laptops with detailed information to make informed decisions.
 
+
+
 ## Table of Contents
 
 - [About LapEra](#about-lapera)
